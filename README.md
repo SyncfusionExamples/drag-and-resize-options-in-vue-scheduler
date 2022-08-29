@@ -1,0 +1,2 @@
+# drag-and-resize-options-in-vue-scheduler
+A quick start project that shows about the advanced options available for both the drag and resize actions of Syncfusion's Vue Scheduler events. This project also includes a code snippet to control the scrolling speed while dragging or resizing an appointment; restrict the drag-and-drop feature for specific target areas; and how to drag an appointment from a date range in the current view to some other date ranges that are not present in the current view; as well as how to set different drag and resize time intervals.
