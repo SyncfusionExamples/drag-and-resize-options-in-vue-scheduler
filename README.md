@@ -4,7 +4,11 @@ A quick start project that shows about the advanced options available for both t
 
 Example: https://ej2.syncfusion.com/vue/demos/#/bootstrap5/schedule/multi-drag.html 
 
-Documentation: https://ej2.syncfusion.com/vue/documentation/schedule/appointments/#drag-and-drop-appointments
+## Documentation
+
+- **Introduction**: https://ej2.syncfusion.com/vue/documentation/introduction
+- **Schedule Component**: https://ej2.syncfusion.com/vue/documentation/schedule/getting-started
+- **Drag and Drop**: https://ej2.syncfusion.com/vue/documentation/schedule/appointments/#drag-and-drop-appointments
 
 ## Project pre-requisites
 
@@ -34,7 +38,29 @@ npm install
 
 Run `npm run serve` command for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
-## Further help
+## Features
 
-To get more help on the vue CLI use go check out the [Vue-Cli README](https://github.com/vuejs/vue-cli/blob/master/README.md).
+This project demonstrates:
+
+- **Advanced Drag Options**: Control scrolling speed, restrict drag targets, and drag appointments across date ranges
+- **Resize Capabilities**: Set different drag and resize time intervals for appointments
+- **Flexible Configuration**: Customize drag and drop behavior based on your specific requirements
+- **Time Management**: Efficiently manage appointment scheduling with advanced time interval controls
+
+## Key Components
+
+The Vue Scheduler component in this project includes:
+
+- Event drag-and-drop functionality with customizable constraints
+- Appointment resizing with configurable time intervals
+- Scroll speed controls during drag operations
+- Support for dragging appointments between different date ranges in calendar views
+
+## Further Help
+
+For additional assistance, refer to the following resources:
+
+- [Vue-Cli README](https://github.com/vuejs/vue-cli/blob/master/README.md) - Vue CLI documentation and setup guide
+- [Syncfusion Vue Documentation](https://ej2.syncfusion.com/vue/documentation/introduction) - Complete Vue component documentation
+- [Vue Official Documentation](https://vuejs.org/guide/introduction.html) - Vue framework guide
 
